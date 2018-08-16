@@ -1,2 +1,3 @@
 # first-month-of-javascript
-I've been coding in JavaScript for one month, here are some working functions.
+I'm just learning to program, and have been coding in JavaScript for one month.
+Here are some working functions.
